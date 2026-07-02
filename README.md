@@ -1,87 +1,143 @@
 # Miljan Dimitrijevic
 
-AI Product Engineer | Full-Stack Developer
+## AI Product Engineer | Full-Stack Developer
 
-Building SaaS platforms, operational systems and AI-powered business solutions.
-
----
-
-## About Me
-
-I design and develop software products from concept to deployment, combining product thinking, modern web technologies and AI-assisted development workflows.
-
-My focus is on building SaaS applications, business automation systems and operational platforms that solve real-world business problems.
+Building AI-powered SaaS platforms, intelligent automation systems, and custom business software.
 
 ---
 
-## What I Build
+# About Me
 
-- SaaS Platforms
-- AI-Powered Workflows
-- Business Automation Systems
-- Operational Management Tools
+I'm a Full-Stack Developer focused on building AI-powered products that solve real business problems.
+
+My work combines modern web development, AI integrations, automation, and product thinking to create scalable software for startups and businesses.
+
+---
+
+# What I Build
+
+- AI SaaS Applications
+- AI Business Automations
+- Custom Web Applications
 - CRM & Internal Business Systems
+- Operational Platforms
+- AI Knowledge Management Systems
 - API Integrations
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frontend
+## Frontend
+
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
-### Backend
-- NestJS
-- Supabase
-- PostgreSQL
-- Prisma
-- Redis
+## Backend
 
-### AI & Automation
+- Python
+- FastAPI
+- NestJS
+- PostgreSQL
+- Supabase
+- Prisma
+
+## AI & Automation
+
 - OpenAI
 - Claude
-- Cursor
-- Codex
 - n8n
 - Make
+- RAG
+- Vector Search
 
-### Infrastructure & Tools
+## Infrastructure
+
+- Docker
 - Git
 - GitHub
 - Vercel
 - REST APIs
-- Swagger
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### SeasonStaff
-Workforce management platform focused on employee scheduling, workforce planning and operational management.
+## 🧠 AI Knowledge Workspace *(Work in Progress)*
 
-### Optilium
-Trucking operations platform focused on dispatch workflows, load management and fleet operations.
+A production-grade AI knowledge platform that allows businesses to connect multiple data sources into a single intelligent workspace.
 
-### Project Replication
-Business application focused on workflow management and operational processes.
+### Current Integrations
 
-### Follow The Blueprint
-Modern web application built with React and TypeScript.
+- GitHub
+- Local Documents
+- Obsidian
+
+### Planned Integrations
+
+- Notion
+- Google Drive
+- Google Docs
+- Gmail
+- Google Sheets
+- Slack
+- HubSpot
+- Jira
+- PostgreSQL
+- Supabase
+
+➡️ Repository:
+https://github.com/dimitrijevicmiljan1-create/AI-Knowledge-Workspace
 
 ---
 
-## Current Focus
+## 🚛 Optilium
 
-Building AI-assisted SaaS products, automation systems and operational software.
+AI-powered trucking operations platform focused on dispatch workflows, fleet management, and business operations.
+
+Repositories
+
+Frontend:
+https://github.com/dimitrijevicmiljan1-create/optilium-frontend
+
+Backend:
+https://github.com/dimitrijevicmiljan1-create/optilium-backend
 
 ---
 
-## Contact
+## 🤖 AI Automations
 
-📧 Email: dimitrijevicmiljan1@hotmail.com
+A collection of AI-powered business automation projects built with OpenAI and n8n.
 
-💼 LinkedIn:
+Included projects:
+
+- AI Sales Discovery Assistant
+- AI Meeting Intelligence Assistant
+- AI Lead Qualification System
+
+➡️ Repository:
+https://github.com/dimitrijevicmiljan1-create/AI-Automations
+
+---
+
+# Current Focus
+
+Currently building AI-powered software products, automation systems, and intelligent business applications.
+
+---
+
+# Contact
+
+📧 Email
+
+dimitrijevicmiljan1@hotmail.com
+
+💼 LinkedIn
+
 https://www.linkedin.com/in/miljan-dimitrijevic-4a714328a
+
+🌐 Website
+
+https://balkan.synidox.com/

@@ -1,145 +1,131 @@
 # Miljan Dimitrijevic
 
-## AI Product Engineer | Full-Stack Developer
+## Software Engineer | AI & SaaS Systems
 
-Building AI-powered SaaS platforms, intelligent automation systems, and custom business software.
+I build full-stack software products with a focus on SaaS platforms, AI-powered systems, automation, and operational business software.
 
----
+My work combines modern web development, backend architecture, data modeling, API integrations, and intelligent business workflows.
 
-# About Me
-
-I'm a Full-Stack Developer focused on building AI-powered products that solve real business problems.
-
-My work combines modern web development, AI integrations, automation, and product thinking to create scalable software for startups and businesses.
+I enjoy building systems where software does more than display data — it processes information, automates workflows, and supports real-world business operations.
 
 ---
 
-# What I Build
+## Tech Stack
 
-- AI SaaS Applications
-- AI Business Automations
-- Custom Web Applications
-- CRM & Internal Business Systems
-- Operational Platforms
-- AI Knowledge Management Systems
-- API Integrations
+### Languages
 
----
+* TypeScript
+* JavaScript
+* Python
+* SQL
 
-# Tech Stack
+### Frontend
 
-## Frontend
+* React
+* Next.js
+* Tailwind CSS
+* TanStack Query
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+### Backend
 
-## Backend
+* Node.js
+* NestJS
+* FastAPI
+* PostgreSQL
+* Supabase
+* Prisma
+* Redis
 
-- Python
-- FastAPI
-- NestJS
-- PostgreSQL
-- Supabase
-- Prisma
+### AI & Data
 
-## AI & Automation
+* OpenAI APIs
+* RAG
+* Vector Search
+* pgvector
+* AI-powered workflows
+* Recommendation systems
+* Matching & scoring systems
 
-- OpenAI
-- Claude
-- n8n
-- Make
-- RAG
-- Vector Search
+### Architecture & Infrastructure
 
-## Infrastructure
-
-- Docker
-- Git
-- GitHub
-- Vercel
-- REST APIs
-
----
-
-# Featured Projects
-
-## 🧠 AI Knowledge Workspace *(Work in Progress)*
-
-A production-grade AI knowledge platform that allows businesses to connect multiple data sources into a single intelligent workspace.
-
-### Current Integrations
-
-- GitHub
-- Local Documents
-- Obsidian
-
-### Planned Integrations
-
-- Notion
-- Google Drive
-- Google Docs
-- Gmail
-- Google Sheets
-- Slack
-- HubSpot
-- Jira
-- PostgreSQL
-- Supabase
-
-➡️ Repository:
-https://github.com/dimitrijevicmiljan1-create/AI-Knowledge-Workspace
+* REST APIs
+* Multi-tenant SaaS architecture
+* Role-based access control
+* Row Level Security
+* API integrations
+* Docker
+* CI/CD
+* Vercel
 
 ---
 
-## 🚛 Optilium
+## Selected Projects
 
-AI-powered trucking operations platform focused on dispatch workflows, fleet management, and business operations.
+### AI Knowledge Workspace
 
-Repositories
+An AI-powered knowledge platform designed to bring information from multiple sources into a unified workspace.
 
-Frontend:
-https://github.com/dimitrijevicmiljan1-create/optilium-frontend
+The system combines a Next.js frontend with a Python/FastAPI backend, PostgreSQL, vector search, document processing, authentication, search, and AI-assisted knowledge workflows.
 
-Backend:
-https://github.com/dimitrijevicmiljan1-create/optilium-backend
+**Focus:** AI, knowledge systems, RAG, vector search, backend architecture
 
 ---
 
-## 🤖 AI Automations
+### Optilium
 
-A collection of AI-powered business automation projects built with OpenAI and n8n.
+A transportation operations platform focused on fleet management, dispatch workflows, load operations, and intelligent operational decision-making.
 
-Included projects:
+The project is split into dedicated frontend and backend applications, with the backend responsible for core business logic, data processing, and operational workflows.
 
-- AI Sales Discovery Assistant
-- AI Meeting Intelligence Assistant
-- AI Lead Qualification System
-
-➡️ Repository:
-https://github.com/dimitrijevicmiljan1-create/AI-Automations
+**Focus:** SaaS, logistics technology, backend architecture, matching and operational systems
 
 ---
 
-# Current Focus
+### AI Automations
 
-Currently building AI-powered software products, automation systems, and intelligent business applications.
+A collection of AI-powered business automation workflows focused on practical applications of AI in business processes.
+
+The project explores automated workflows such as lead qualification, sales discovery, and meeting intelligence.
+
+**Focus:** AI automation, workflow design, business process automation
 
 ---
 
-# Contact
+## Engineering Focus
 
-📧 Email
+I'm currently focused on:
 
-dimitrijevicmiljan1@hotmail.com
+* AI Engineering
+* Applied AI
+* Backend Engineering
+* SaaS Architecture
+* API Design
+* Data & Knowledge Systems
+* Business Automation
+* Recommendation & Matching Systems
+* Intelligent Operational Software
 
-💼 LinkedIn
+---
 
-https://www.linkedin.com/in/miljan-dimitrijevic-4a714328a
+## What I Like Building
 
-🌐 Website
+I am particularly interested in software that combines:
 
-https://balkan.synidox.com/
+**Data → Intelligence → Automation → Business Action**
 
+Rather than building isolated features, I enjoy designing complete systems where data flows through APIs and backend services, is processed by business logic or AI, and becomes an actionable result for the user.
 
+---
+
+## Current Direction
+
+I'm continuing to deepen my work in AI engineering, Python, backend systems, and intelligent SaaS applications.
+
+My goal is to build production-oriented software that combines strong engineering fundamentals with practical AI applications.
+
+---
+
+## Contact
+
+* LinkedIn: [Miljan Dimitrijevic](https://www.linkedin.com/in/miljan-dimitrijevic-4a714328a/)
+* Portfolio: [Synidox](https://balkan.synidox.com/)

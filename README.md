@@ -14,48 +14,48 @@ I enjoy building systems where software does more than display data — it proce
 
 ### Languages
 
-* TypeScript
-* JavaScript
-* Python
-* SQL
+- TypeScript
+- JavaScript
+- Python
+- SQL
 
 ### Frontend
 
-* React
-* Next.js
-* Tailwind CSS
-* TanStack Query
+- React
+- Next.js
+- Tailwind CSS
+- TanStack Query
 
 ### Backend
 
-* Node.js
-* NestJS
-* FastAPI
-* PostgreSQL
-* Supabase
-* Prisma
-* Redis
+- Node.js
+- NestJS
+- FastAPI
+- PostgreSQL
+- Supabase
+- Prisma
+- Redis
 
 ### AI & Data
 
-* OpenAI APIs
-* RAG
-* Vector Search
-* pgvector
-* AI-powered workflows
-* Recommendation systems
-* Matching & scoring systems
+- OpenAI APIs
+- RAG
+- Vector Search
+- pgvector
+- AI-powered workflows
+- Recommendation systems
+- Matching & scoring systems
 
 ### Architecture & Infrastructure
 
-* REST APIs
-* Multi-tenant SaaS architecture
-* Role-based access control
-* Row Level Security
-* API integrations
-* Docker
-* CI/CD
-* Vercel
+- REST APIs
+- Multi-tenant SaaS architecture
+- Role-based access control
+- Row Level Security
+- API integrations
+- Docker
+- CI/CD
+- Vercel
 
 ---
 
@@ -81,6 +81,26 @@ The project is split into dedicated frontend and backend applications, with the 
 
 ---
 
+### SeasonStaff
+
+A workforce management SaaS designed for businesses that need to manage employees, roles, schedules, shifts, attendance, and employee requests.
+
+The platform is designed around multi-organization operations and role-based workflows for owners, managers, and employees.
+
+**Focus:** SaaS, workforce management, scheduling, multi-tenant architecture
+
+---
+
+### TourFlow
+
+A business operations platform designed for tourism and seasonal businesses.
+
+The application focuses on organizing operational workflows and business data through a modern web application architecture.
+
+**Focus:** SaaS, tourism technology, business operations, workflow management
+
+---
+
 ### AI Automations
 
 A collection of AI-powered business automation workflows focused on practical applications of AI in business processes.
@@ -95,15 +115,15 @@ The project explores automated workflows such as lead qualification, sales disco
 
 I'm currently focused on:
 
-* AI Engineering
-* Applied AI
-* Backend Engineering
-* SaaS Architecture
-* API Design
-* Data & Knowledge Systems
-* Business Automation
-* Recommendation & Matching Systems
-* Intelligent Operational Software
+- AI Engineering
+- Applied AI
+- Backend Engineering
+- SaaS Architecture
+- API Design
+- Data & Knowledge Systems
+- Business Automation
+- Recommendation & Matching Systems
+- Intelligent Operational Software
 
 ---
 
@@ -127,5 +147,5 @@ My goal is to build production-oriented software that combines strong engineerin
 
 ## Contact
 
-* LinkedIn: [Miljan Dimitrijevic](https://www.linkedin.com/in/miljan-dimitrijevic-4a714328a/)
-* Portfolio: [Synidox](https://balkan.synidox.com/)
+- LinkedIn: [Miljan Dimitrijevic](https://www.linkedin.com/in/miljan-dimitrijevic-4a714328a/)
+- [Synidox](https://balkan.synidox.com/)
